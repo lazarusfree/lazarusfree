@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning: C, C++, Java, Python, Rust, HTML5, CSS3, JS
+Currently learning: C, C++, Java, Python, Rust, HTML5, CSS3, JS, MySQL, SQLLite
 
 
 ## 🌐 Socials:
