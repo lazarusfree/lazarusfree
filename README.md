@@ -1,18 +1,69 @@
-# 💫 About Me:
-Currently learning: C, C++, Java, Python, Rust, HTML5, CSS3, JS, MySQL, SQLLite
+# lazarusfree
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+student+building+across+security%2C+systems%2C+and+the+web;Learning+by+shipping+projects+in+Python%2C+C%2FC%2B%2B%2C+Java%2C+Rust%2C+and+JavaScript;Interested+in+cryptography%2C+software+engineering%2C+and+practical+problem+solving" alt="Typing intro" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BVJf3vPA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rezzzzzzzzzzzzz_z) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@perturbdestiny) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/junatthemoon) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lazarusfree&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lazarusfree&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusfree&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am a developer focused on learning by building. My recent work includes implementing and analyzing AES encryption in Python, documenting tradeoffs clearly, and using code projects to strengthen my foundations in security, programming languages, and software engineering.
 
----
-[![](https://visitcount.itsvg.in/api?id=lazarusfree&icon=0&color=0)](https://visitcount.itsvg.in)
+- Studying computer science and building practical projects
+- Interested in cryptography, low-level programming, and backend logic
+- Growing across Python, C, C++, Java, Rust, JavaScript, HTML/CSS, MySQL, and SQLite
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Am Building
+
+- Cryptography exercises and security-focused programming projects
+- Small tools that emphasize clean implementation and technical explanation
+- Foundations in systems programming, algorithms, databases, and web development
+
+## Featured Project
+
+### [AES Implementation](https://github.com/lazarusfree/AES_implementation)
+
+A Python project exploring AES encryption in ECB mode with:
+
+- support for AES-128, AES-192, and AES-256
+- randomized key generation and PKCS#7 padding
+- benchmark output for comparing encryption performance
+- a written report explaining security tradeoffs and why ECB is not suitable for real-world confidential systems
+
+This project reflects the kind of work I want to keep doing: code that runs, measurements that mean something, and documentation that explains the engineering decisions behind it.
+
+## Tech Stack
+
+The stack below is based on the work and learning path reflected in my repositories and current projects.
+
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffd43b)
+![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=5cc8ff)
+![C++](https://img.shields.io/badge/C%2B%2B-1f2937?style=for-the-badge&logo=c%2B%2B&logoColor=60a5fa)
+![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=f97316)
+![Rust](https://img.shields.io/badge/Rust-1f2937?style=for-the-badge&logo=rust&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=facc15)
+![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=38bdf8)
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=7dd3fc)
+![SQLite](https://img.shields.io/badge/SQLite-1f2937?style=for-the-badge&logo=sqlite&logoColor=93c5fd)
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lazarusfree&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusfree&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lazarusfree&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+## Connect
+
+[![Discord](https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BVJf3vPA)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezzzzzzzzzzzzz_z)
+[![TikTok](https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@perturbdestiny)
+[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/junatthemoon)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=lazarusfree&icon=5&color=12" alt="Profile views" />
+</p>
