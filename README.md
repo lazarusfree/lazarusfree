@@ -1,7 +1,7 @@
 # lazarusfree
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+student+building+across+security%2C+systems%2C+and+the+web;Learning+by+shipping+projects+in+Python%2C+C%2FC%2B%2B%2C+Java%2C+Rust%2C+and+JavaScript;Interested+in+cryptography%2C+software+engineering%2C+and+practical+problem+solving" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student+building+across+security+systems+and+the+web." alt="Typing intro" />
 </p>
 
 ## About Me
