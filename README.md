@@ -1,7 +1,7 @@
 # lazarusfree
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student+building+across+security+systems+and+the+web." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student+building+;across+security+systems+and+the+web." alt="Typing intro" />
 </p>
 
 ## About Me
