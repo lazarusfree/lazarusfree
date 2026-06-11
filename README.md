@@ -6,11 +6,10 @@
 
 ## About Me
 
-I am a developer focused on learning by building. My recent work includes implementing and analyzing AES encryption in Python, documenting tradeoffs clearly, and using code projects to strengthen my foundations in security, programming languages, and software engineering.
+I am a developer focused on learning by building. My repos are a mixbag of whatever I decide to build, which also includes my class projects.
 
 - Studying computer science and building practical projects
-- Interested in cryptography, low-level programming, and backend logic
-- Growing across Python, C, C++, Java, Rust, JavaScript, HTML/CSS, MySQL, and SQLite
+- Currently studying Python, C, C++, Java, Rust, JavaScript, HTML/CSS, MySQL, and SQLite
 
 ## What I Am Building
 
