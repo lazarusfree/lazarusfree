@@ -11,25 +11,6 @@ I am a developer focused on learning by building. My repos are a mixbag of whate
 - Studying computer science and building practical projects
 - Currently studying Python, C, C++, Java, Rust, JavaScript, HTML/CSS, MySQL, and SQLite
 
-## What I Am Building
-
-- Cryptography exercises and security-focused programming projects
-- Small tools that emphasize clean implementation and technical explanation
-- Foundations in systems programming, algorithms, databases, and web development
-
-## Featured Project
-
-### [AES Implementation](https://github.com/lazarusfree/AES_implementation)
-
-A Python project exploring AES encryption in ECB mode with:
-
-- support for AES-128, AES-192, and AES-256
-- randomized key generation and PKCS#7 padding
-- benchmark output for comparing encryption performance
-- a written report explaining security tradeoffs and why ECB is not suitable for real-world confidential systems
-
-This project reflects the kind of work I want to keep doing: code that runs, measurements that mean something, and documentation that explains the engineering decisions behind it.
-
 ## Tech Stack
 
 The stack below is based on the work and learning path reflected in my repositories and current projects.
