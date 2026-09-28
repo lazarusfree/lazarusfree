@@ -27,5 +27,5 @@ Python, C, C++, Java, Rust, JavaScript, HTML/CSS. MySQL and SQLite for databases
 
 ## Contact
 
-Discord: `your-username-here` (invite links expire, so a username lasts longer)
+Discord: [n2k__.](https://discord.com/users/497441863356383242) ·
 [X](https://x.com/junatthemoon) · [Instagram](https://instagram.com/rezzzzzzzzzzzzz_z) · [TikTok](https://tiktok.com/@perturbdestiny)
