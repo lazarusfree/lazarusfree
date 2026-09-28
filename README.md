@@ -1,49 +1,31 @@
-# lazarusfree
+## lazarusfree
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CS+student.;Building+security+systems+and+web+stuff.;Learning+in+public." alt="Typing intro" />
-</p>
+Final-year CS student. I learn by building, so the repos here are a mix of class projects and things I wanted to exist. Most of what I've pinned is security tooling.
 
-## About
+## Projects
 
-CS student. I learn by building, so this profile is a mix of class projects, half-finished experiments, and things I actually use.
+**[cmseeker](https://github.com/lazarusfree/cmseeker)** (Rust)
+Detects which CMS a site is running.
 
-- Currently in my final year of university, shipping side projects when I can
-- Working in: Python, C, C++, Java, Rust, JavaScript, HTML/CSS, MySQL, SQLite
+**[dirseeker](https://github.com/lazarusfree/dirseeker)** (Rust)
+Web directory discovery. <!-- check this matches what it does -->
 
-## Stack
+**[portscanner](https://github.com/lazarusfree/portscanner)** (Python)
+A port scanner.
 
-What I'm actually writing code in right now, not a wishlist.
+**[SecureFileVault](https://github.com/lazarusfree/SecureFileVault)** (Java)
+File encryption with AES, with activity logged to SQLite.
 
-![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffd43b)
-![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=5cc8ff)
-![C++](https://img.shields.io/badge/C%2B%2B-1f2937?style=for-the-badge&logo=c%2B%2B&logoColor=60a5fa)
-![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=f97316)
-![Rust](https://img.shields.io/badge/Rust-1f2937?style=for-the-badge&logo=rust&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=facc15)
-![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=38bdf8)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=7dd3fc)
-![SQLite](https://img.shields.io/badge/SQLite-1f2937?style=for-the-badge&logo=sqlite&logoColor=93c5fd)
+**[ATM-simulation](https://github.com/lazarusfree/ATM-simulation)** (Java)
+An ATM simulation.
 
-## Stats
+I also keep a personal site on Neocities: [STRIKE1-](https://github.com/lazarusfree/STRIKE1-).
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lazarusfree&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusfree&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+## Languages
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lazarusfree&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
+Python, C, C++, Java, Rust, JavaScript, HTML/CSS. MySQL and SQLite for databases.
 
-## Elsewhere
+## Contact
 
-[![Discord](https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BVJf3vPA)
-[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezzzzzzzzzzzzz_z)
-[![TikTok](https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@perturbdestiny)
-[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/junatthemoon)
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lazarusfree&icon=5&color=12" alt="Profile views" />
-</p>
+Discord: `your-username-here` (invite links expire, so a username lasts longer)
+[X](https://x.com/junatthemoon) · [Instagram](https://instagram.com/rezzzzzzzzzzzzz_z) · [TikTok](https://tiktok.com/@perturbdestiny)
