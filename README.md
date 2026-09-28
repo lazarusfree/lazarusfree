@@ -1,19 +1,19 @@
 # lazarusfree
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student+building+;across+security+systems+and+the+web." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CS+student.;Building+security+systems+and+web+stuff.;Learning+in+public." alt="Typing intro" />
 </p>
 
-## About Me
+## About
 
-I am a developer focused on learning by building. My repos are a mixbag of whatever I decide to build, which also includes my class projects.
+CS student. I learn by building, so this profile is a mix of class projects, half-finished experiments, and things I actually use.
 
-- Studying computer science and building practical projects
-- Currently studying Python, C, C++, Java, Rust, JavaScript, HTML/CSS, MySQL, and SQLite
+- Currently in my final year of university, shipping side projects when I can
+- Working in: Python, C, C++, Java, Rust, JavaScript, HTML/CSS, MySQL, SQLite
 
-## Tech Stack
+## Stack
 
-The stack below is based on the work and learning path reflected in my repositories and current projects.
+What I'm actually writing code in right now, not a wishlist.
 
 ![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=5cc8ff)
@@ -26,7 +26,7 @@ The stack below is based on the work and learning path reflected in my repositor
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=7dd3fc)
 ![SQLite](https://img.shields.io/badge/SQLite-1f2937?style=for-the-badge&logo=sqlite&logoColor=93c5fd)
 
-## GitHub Snapshot
+## Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lazarusfree&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
@@ -37,7 +37,7 @@ The stack below is based on the work and learning path reflected in my repositor
   <img src="https://nirzak-streak-stats.vercel.app/?user=lazarusfree&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Connect
+## Elsewhere
 
 [![Discord](https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BVJf3vPA)
 [![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezzzzzzzzzzzzz_z)
